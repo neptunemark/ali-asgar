@@ -12,7 +12,7 @@ const person = {
 const contact ={
     contact_no: "+971581452653",
     whatsapp: "+971581452653",
-    location: "",
+    location: "https://maps.app.goo.gl/UswGkGY9yCjAJ5mNA?g_st=i",
     email: "almufrid13@gmail.com",
 };
 
